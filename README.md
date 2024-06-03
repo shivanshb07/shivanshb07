@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently a student in **Chitkara University**
 
+- 👨‍💼 To know more about me, check out my Portfolio [https://shivanshbahl.vercel.app/](https://shivanshbahl.vercel.app/)
+
 - 👨‍💻 All of my projects are available at [https://github.com/shivanshb07](https://github.com/shivanshb07)
 
 - 📫 How to reach me **shivbahl2003@gmail.com**
