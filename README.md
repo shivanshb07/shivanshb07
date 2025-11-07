@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivansh Bahl</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently a student in **Chitkara University**
+- 🔭 I’m a graduate student in **Chitkara University**
 
 - 👨‍💼 To know more about me, check out my Portfolio [https://shivanshbahl.vercel.app/](https://shivanshbahl.vercel.app/)
 
